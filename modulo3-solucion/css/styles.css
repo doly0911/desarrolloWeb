@@ -1,0 +1,10 @@
+h5 {
+    background-color: rgb(160, 156, 156); 
+} 
+
+p{
+    background-color: rgb(160, 156, 156);
+    overflow: hidden;
+    height: 1000px;
+    font-weight: 500;
+} 
