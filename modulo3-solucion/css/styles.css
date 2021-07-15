@@ -12,4 +12,8 @@ p{
     overflow: hidden;
     height: 700px;
     font-weight: 500;
-} 
+}
+
+.titulo {
+    font-size: 1.5em;
+}
